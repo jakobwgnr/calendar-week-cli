@@ -1,7 +1,14 @@
+jestconfig.json
+.prettierrc
+.coveralls.yml
+.travis.yml
 logs/
 .vscode/
+coverage/
+dev/
+docs/
 .npmignore
 /node_modules/
 
 // npm pack
-calendar-week-cli*.tgz
+calendar-week-cli-*.tgz
