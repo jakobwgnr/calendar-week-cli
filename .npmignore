@@ -1,11 +1,5 @@
-jestconfig.json
 .prettierrc
-.coveralls.yml
-.travis.yml
-logs/
-.vscode/
-coverage/
-dev/
+.eslintrc.json
 docs/
 .npmignore
 /node_modules/
