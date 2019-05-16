@@ -1,10 +1,13 @@
-install with:
+#Sometimes you need it
+This small & simple Node package returns the current calendar week
+
+Install with (prerequisite Node.js installed):
 
 ```bash
 $ npm install -g calendar-week-cli
 ```
 
-try with:
+Try with:
 
 ```bash
 $ cw
