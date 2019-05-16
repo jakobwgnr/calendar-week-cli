@@ -11,7 +11,7 @@
   "scripts": {
     "setup": "npm install",
     "clean": "shx rm -rf node_modules\\ dist\\ docs\\",
-    "format": "prettier --write \"dev\\**\\*.ts\" \"dev\\**\\*.js\"",
+    "format": "prettier --write \"*.js\"",
     "version": "npm run format && git add -A dev",
     "postversion": "git push && git push --tags"
   },
