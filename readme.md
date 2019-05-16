@@ -1,5 +1,6 @@
-#Sometimes you need it
-This small & simple Node package returns the current calendar week
+# Sometimes you need it
+
+This small, simple and helpful Node-package provides a CLI that returns the current calendar week:
 
 Install with (prerequisite Node.js installed):
 
