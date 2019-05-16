@@ -1,0 +1,28 @@
+{
+  "name": "calendar-week-cli",
+  "version": "1.0.0",
+  "description": "cli that returns the current calendar-week",
+  "main": "index.js",
+  "keywords": [
+    "cli",
+    "calendar",
+    "week"
+  ],
+  "author": "Jakob Wagner",
+  "license": "ISC",
+  "bin": {
+    "cw": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakobwgnr/calendar-week-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jakobwgnr/calendar-week-cli/issues"
+  },
+  "homepage": "https://github.com/jakobwgnr/calendar-week-cli.git#readme"
+}

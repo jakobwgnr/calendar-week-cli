@@ -1,0 +1,7 @@
+logs/
+.vscode/
+.npmignore
+/node_modules/
+
+// npm pack
+calendar-week-cli*.tgz
