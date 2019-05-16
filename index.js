@@ -44,5 +44,3 @@ program
     console.log(`It's calendar week ${chalk.bold.cyan(result[1])} in ${chalk.bold.cyan(result[0])}`);
   })
   .parse(process.argv);
-
-export default { getWeekNumber };
